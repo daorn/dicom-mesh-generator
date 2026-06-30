@@ -33,6 +33,7 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 # Jetbrains Rider personal-layer settings
 *.DotSettings.user
+.idea/
 
 # Visual Studio cache directory
 .vs/
@@ -108,5 +109,4 @@ InitTestScene*.unity*
 # External assets
 /[Aa]ssets/[Ee]xternal/*
 
-# obj files
-/*.obj
+*.obj
