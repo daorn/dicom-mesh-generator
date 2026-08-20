@@ -1,1 +1,3 @@
-# dicom-mesh-generator
+# Dicom Mesh Generator
+
+![screenshot](./Screenshots/screenshot_1.png)
